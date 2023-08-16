@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZeeVote</string>
+    <string name="voters_num_selected">Voters number selected</string>
+    <string name="unexpected_error">An unexpected error  occurred!</string>
+</resources>
